@@ -1,0 +1,35 @@
+{
+  "name": "nextjs-prisma-template",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "webpack -p",
+    "start": "next start",
+    "lint": "next lint",
+    "compose": "docker-compose up app",
+    "test": "karma start"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.6.0",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.10.2",
+    "@types/node": "16.11.12",
+    "@types/react": "17.0.37",
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7",
+    "jasmine-core": "^3.10.1",
+    "karma": "^6.3.9",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1",
+    "karma-webpack": "^5.0.0",
+    "prisma": "^3.6.0",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.3",
+    "webpack": "^5.65.0",
+    "webpack-dev-server": "^4.6.0"
+  }
+}
