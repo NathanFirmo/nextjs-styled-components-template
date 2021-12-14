@@ -42,3 +42,10 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+***
+> Project status: Done :heavy_check_mark:
+
+ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+ 
+See my [LinkedIn](https://www.linkedin.com/in/nathan-de-souza-silva-firmo/). 
+
