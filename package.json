@@ -6,7 +6,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "format": "prettier --write \"{,!(node_modules)/**/}*.ts\""",
+    "format": "prettier --write \"{,!(node_modules)/**/}*.ts\"",
     "compose": "docker-compose up app",
     "test": "karma start"
   },
