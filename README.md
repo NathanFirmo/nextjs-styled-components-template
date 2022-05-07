@@ -7,16 +7,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ```bash
 # TO INSTALL YOUR DEPENDENCIES
 yarn
-
-# TO INICIALIZE PRISMA
-npx prisma init
-
-# TO INSTROSPECT YOUR DATABASE
-npx prisma db pull
-
-# TO GENERATE YOUR PRISMA CLIENT
-npx prisma generate
 ```
+
 To run the development server:
 
 ```bash
